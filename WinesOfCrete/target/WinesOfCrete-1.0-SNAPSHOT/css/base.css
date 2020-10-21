@@ -1,0 +1,42 @@
+/*
+@file:   base.css
+*/
+/* 
+    Created on : 8 Δεκ 2017, 3:55:35 μμ
+    Author     : probonas giannis <csd3522@csd.uoc.gr>
+*/
+
+header{
+    padding-top: 1%;
+}
+.main-content{
+    padding-top: 2%;
+}
+
+.space-after{
+    margin-right: 25px;
+}
+
+.col-left{
+    position: relative;
+    padding-right: 2%;
+    width: 10%;
+    padding-right: 78%;
+}
+
+col-center{
+    text-align: center;
+    position:relative;
+    padding-left: 12%;
+    padding-right: 12%;
+}
+
+.my-sidebar{
+    padding-top: 20px;
+    line-height: 250%;
+}
+ul {
+    list-style-type: none;
+}
+
+
